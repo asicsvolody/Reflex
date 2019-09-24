@@ -1,0 +1,1 @@
+{"type":"record","name":"UserWithData","fields":[{"name":"id","type":"long"},{"name":"name","type":"string"},{"name":"phone","type":"string"}]}
